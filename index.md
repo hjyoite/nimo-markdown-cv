@@ -1,87 +1,58 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Huang Jian CV
 pdf: true
 ---
-# Wode __Ni__
+# __Huang__ __Jian__
 
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
-<a href="http://www.cs.cmu.edu/~woden" style="margin-left:0.5em">cs.cmu.edu/~woden</a>
+<a href="http://hjyoite.github.io/" style="margin-left:0.5em">hjyoite.github.io</a>
 <i class="fi-mail" style="margin-left:1em"></i>
-<a href="woden@cs.cmu.edu" style="margin-left:0.5em">woden@cs.cmu.edu</a>
+<a href="hjyoite@gmail.com" style="margin-left:0.5em">hjyoite@gmail.com</a>
 </div>
 
 ## Education
 
-### __Carnegie Mellon University__ `2018.9 -`
+### __Sun Yat-Sen University__ `2012.9 - 2015.6`
 ```
-Pittsburgh, PA
+Guangzhou, China
 ```
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- M.S. in Computer Application Technology
 
-### __Columbia University__ `2016.9 - 2018.5`
+### __Sun Yat-Sen University__ `2008.9 - 2012.6`
 ```
-New York, NY
+Guangzhou, China
 ```
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### __Dickinson College__ `2013.9 - 2016.5`
-```
-Carlisle, PA
-```
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
-
-## Publications
-
-### [__Substance and Style: domain-specific languages for mathematical diagrams__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-__Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>  _Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
-[[PDF](assets/dsldi.pdf)]
-[[slides](assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
-
-### [__Whiteboard Scanning Using Super-Resolution__](http://scholar.dickinson.edu/student_honors/221/)
-__Wode Ni__.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF](assets/superres.pdf)]
+- B.S. in Network Engineering
 
 ## Experience
 
-### __Carnegie Mellon University, Research Experiences for Undergraduate__  `2017.5 - 2017.8`
-_Research Assistant_<br>
-__Penrose__ is a system that automatically visualizes mathematics using two domain-specific languages: __Substance__ and __Style__. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+### __Tencent__  `2015.7 -`
+_Senior Engineer_<br>
+Worked in the Advertisement Retrieval Team & the Machine Learning Platform Team. We are building the model training and serving system based on TensorFlow for the online advertisement display system.
 
-### __Columbia University, Computer Graphics and User Interfaces Lab__ `2017.1 - 2017.5`
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on __Cyber Affordance Visualization in Augumented Reality__ project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
+### __Baidu__ `2014.9 - 2014.12`
+_Engineering Intern_<br>
 
-### __AsiaInfo__ `2015.6 - 2015.8`
-_Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
+### __Nanyang Technological University__ `2013.10 - 2014.8`
+_Project Officer_<br>
+Developed the crawler, parser and data visualization modules for the Social TV Analytics project.
 
+## Publications
 
-## Teaching
+### [__Toward Cost-Effective Mobile Video Streaming via Smart Cache With Adaptive Thresholding__](https://ieeexplore.ieee.org/document/7271000)
+Wu, Di, __Jian Huang__, Jian He, Min Chen, and Guoqing Zhang. <br>  _IEEE Transactions on Broadcasting 61, no. 4 (2015): 639-650._ <br>
 
-Teaching Assistant, __Programming Languages and Translators (COMS 4115)__ `Columbia, 2017 - 2018` <br>
-Teaching Assistant, __Introduction to Java II (COMP 132)__ `Dickinson, 2016` <br>
-Peer Tutor, __Data Structures and Problem Solving (COMP 232)__ `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
+### [__Community-based Effective Social Video Contents Placement in CloudCentric CDN Network__](https://ieeexplore.ieee.org/document/6890134/)
+Han Hu, Yonggang Wen, Tat-Seng Chua, Zhi Wang, __Jian Huang__, Wenwu Zhu and Di Wu.<br> _In Proc. of the 2014 IEEE International Conference on Multimedia and Expo (ICME 2014), Chengdu, China, July 2014._<br>
 
+### [__Social TV Analytics: a Novel Paradigm to Transform TV Watching Experience__](http://www3.ntu.edu.sg/home/ygwen/Paper/HHZ-MMsys-14.pdf)
+Han Hu, __Jian Huang__, He Zhao, Yonggang Wen, ChangWen Chen and Tat-Seng Chua.<br> _In Proc. of ACM Multimedia Systems Conference 2014, Singapore, March2014._<br>
 
-## Honors & Awards
-
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society  `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
+### [__Unveiling the Patterns of Video Tweeting: A Sina Weibo-based Measurement Study__](https://dl.acm.org/citation.cfm?id=2482362.2482384)
+Zhida Guo, __Jian Huang__, Jian He, Xiaojun Hei and Di Wu.<br> _In Proc. of the 14th Passive and Active Measurement Conference (PAM 2013), Hong Kong, China, March 2013._<br>
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: January 2019 -->
